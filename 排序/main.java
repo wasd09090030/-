@@ -6,11 +6,18 @@ public class main {
 
     public static void main(String[] args){
 
-        int[] arrays ={2,4,6,3,9,7,1,8};
+        int[] arrays01 ={2,4,6,3,9,7,1,8};
 
-        SimpleSort ss= new SimpleSort();
+        SimpleSort .sort(arrays01);
 
-        ss.sort(arrays);
+
+
+
+        int[] arrays02 ={2,4,6,3,9,7,1,8};
+
+        SelectionSort.Selectionsort(arrays02);
+
+
 
 
 
