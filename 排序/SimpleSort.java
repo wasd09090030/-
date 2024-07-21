@@ -24,6 +24,7 @@ public class SimpleSort{
 
         }
 
+
        for(int t=0; t< arr.length;t++)
        { System.out.println(arr[t]);}
 
