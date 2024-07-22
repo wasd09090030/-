@@ -22,6 +22,10 @@ public class main {
 
         InsertionSort.insertionSort(arrays03);
 
+        int[] arrays04 ={2,4,6,3,7,9,7,1,8};
+
+        ShellSort.shellsort(arrays04);
+
 
 
 

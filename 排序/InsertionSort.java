@@ -15,7 +15,7 @@ public class InsertionSort {
 
         int j=i ;
 
-        while(j>0&&beh<arr[j-1]){
+        while(j>0&&beh<arr[j-1]){  //默认从后往前比
 
             arr[j] = arr[j - 1];
 
