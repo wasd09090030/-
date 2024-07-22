@@ -18,6 +18,9 @@ public class main {
         SelectionSort.Selectionsort(arrays02);
 
 
+        int[] arrays03 ={2,4,6,3,7,9,7,1,8};
+
+        InsertionSort.insertionSort(arrays03);
 
 
 
