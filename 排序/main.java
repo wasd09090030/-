@@ -26,6 +26,16 @@ public class main {
 
         ShellSort.shellsort(arrays04);
 
+        int[] array04 = new int[] { 9, 7, 8, 6, 5, 4, 3, 2, 10 };
+
+        MergeSort.mergeSort(array04);
+        for(int t=0; t< array04.length;t++)
+        { System.out.println(array04[t]);}
+
+
+
+
+
 
 
 
