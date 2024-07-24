@@ -22,7 +22,7 @@ public class SelectionSort {
             //交换位置
         }
         for(int t=0; t< arr.length;t++)
-        { System.out.println(arr[t]);}
+        { System.out.print(arr[t]);}
 
     }
 
