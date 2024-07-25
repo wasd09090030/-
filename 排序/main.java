@@ -35,7 +35,11 @@ public class main {
         System.out.println();
 
 
-
+        int[] array07={2,57,9,6,54,90,53,9,8};
+        HeapSort.heapSort(array07);
+        for(int t=0; t< array07.length;t++)
+        { System.out.print(array07[t]+" ");}
+        System.out.println();
 
 
     }
